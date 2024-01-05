@@ -1,0 +1,45 @@
+[
+    {
+       "type" : "circle",
+       "color": "red",
+       "X": 20,
+       "Y": 50,
+       "radius": 25 
+    },
+    {
+        "type" : "circle",
+        "color": "green",
+        "X": 120,
+        "Y": 50,
+        "radius": 25 
+     },
+     {
+        "type" : "circle",
+        "color": "blue",
+        "X": 180,
+        "Y": 50,
+        "radius": 25 
+     },
+     {
+        "type" : "circle",
+        "color": "red",
+        "X": 20,
+        "Y": 150,
+        "radius": 25 
+     },
+     {
+         "type" : "circle",
+         "color": "green",
+         "X": 120,
+         "Y": 150,
+         "radius": 25 
+      },
+      {
+         "type" : "circle",
+         "color": "blue",
+         "X": 180,
+         "Y": 150,
+         "radius": 25 
+      }
+ 
+    ]
